@@ -19,6 +19,8 @@ load_dotenv(os.path.join(_PROJECT_ROOT, ".env"))
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 
+from langsmith import traceable
+
 class LLMProvider:
     """
     Thin wrapper around the Groq client.
@@ -36,6 +38,7 @@ class LLMProvider:
         else:
             print("WARNING: GROQ_API_KEY not set. LLM calls will fail.")
 
+    @traceable(run_type="llm")
     @retry_on_quota
     def generate_content(
         self,

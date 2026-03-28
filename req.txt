@@ -13,3 +13,4 @@ torchvision
 pytesseract
 pdf2image
 pillow
+langsmith>=0.1.0

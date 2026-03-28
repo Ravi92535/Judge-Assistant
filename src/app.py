@@ -43,12 +43,10 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 # ─── LangSmith Tracing ───────────────────────────────────────────────────────
-# BUG FIX: Original read LANGSMITH_TRACING but .env declared LANGCHAIN_TRACING_V2.
-# Both .env and app.py now consistently use LANGSMITH_TRACING.
-os.environ["LANGSMITH_TRACING"] = os.getenv("LANGSMITH_TRACING", "false")
-os.environ["LANGSMITH_ENDPOINT"] = os.getenv("LANGSMITH_ENDPOINT", "https://api.smith.langchain.com")
-os.environ["LANGSMITH_API_KEY"] = os.getenv("LANGSMITH_API_KEY", "")
-os.environ["LANGSMITH_PROJECT"] = os.getenv("LANGSMITH_PROJECT", "Judge")
+os.environ["LANGCHAIN_TRACING_V2"] = os.getenv("LANGCHAIN_TRACING_V2", "true")
+os.environ["LANGCHAIN_ENDPOINT"] = os.getenv("LANGCHAIN_ENDPOINT", "https://api.smith.langchain.com")
+os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY", "")
+os.environ["LANGCHAIN_PROJECT"] = os.getenv("LANGCHAIN_PROJECT", "Judge")
 
 # ─── Page configuration ──────────────────────────────────────────────────────
 st.set_page_config(
@@ -425,3 +423,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+    # print(GROQ_API_KEY)
