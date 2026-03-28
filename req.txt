@@ -1,0 +1,15 @@
+python-dotenv
+groq
+pdfplumber
+streamlit
+tenacity
+chromadb
+langchain
+langchain-community
+pypdf
+sentence-transformers
+langchain_huggingface
+torchvision
+pytesseract
+pdf2image
+pillow
