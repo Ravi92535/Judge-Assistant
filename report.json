@@ -1,0 +1,711 @@
+{
+  "evidence_documents": [
+    "1129867331RC2312026S0007-1.pdf"
+  ],
+  "predicates": [
+    {
+      "subject": "FIR",
+      "predicate": "registered under",
+      "object": "Sec.173 CrPC",
+      "time": "29.01.2026",
+      "location": "New Delhi",
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_0",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "FIR",
+      "predicate": "registered for",
+      "object": "Criminal Conspiracy, Cheating",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_0",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "FIR",
+      "predicate": "invokes",
+      "object": "IPC Sections 120-B, 420",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_0",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "FIR",
+      "predicate": "invokes",
+      "object": "IT Act 2000 Sections 66-D",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_0",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Information",
+      "predicate": "received at",
+      "object": "PS",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_1",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Incident",
+      "predicate": "occurred at",
+      "object": "20 km South West of PS",
+      "time": null,
+      "location": "20 km South West of PS",
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_1",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Information",
+      "predicate": "reported on",
+      "object": "Date 29-01-2026",
+      "time": "29-01-2026",
+      "location": "New Delhi",
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_1",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "is son of",
+      "object": "Daili Martin",
+      "time": null,
+      "location": "602 B-2, Ward No. 3, Mehrauli, Near Gendox Hospital, South West Delhi-110010",
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_3",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "resides at",
+      "object": "602 B-2, Ward No. 3, Mehrauli, Near Gendox Hospital, South West Delhi-110010",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_3",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "operating",
+      "object": "network of transnational cyber enabled financial crime",
+      "time": "since 2023",
+      "location": "New Delhi",
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_5",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "targeting",
+      "object": "US nationals",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_5",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "accused persons",
+      "predicate": "falsely informed",
+      "object": "US victims",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_5",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "US victims",
+      "predicate": "subject matter of",
+      "object": "criminal investigation",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_5",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused persons",
+      "predicate": "instructed",
+      "object": "the US victims",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_6",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the US victims",
+      "predicate": "purchase",
+      "object": "gift card numbers",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_6",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the US victims",
+      "predicate": "share",
+      "object": "their numbers",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_6",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the US victims",
+      "predicate": "deposit cash",
+      "object": "bitcoin ATMs",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_6",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused persons",
+      "predicate": "provided",
+      "object": "crypto wallet addresses",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_6",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Madeline Taylor",
+      "predicate": "was contacted by",
+      "object": "the accused",
+      "time": "11.05.2023",
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused",
+      "predicate": "used pseudonymous identity of",
+      "object": "an employee of Wells Fargo Bank",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused",
+      "predicate": "transferred the call to",
+      "object": "another accused",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "another accused",
+      "predicate": "used pseudonymous identity of",
+      "object": "an FBI agent",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused persons",
+      "predicate": "informed",
+      "object": "the victim",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused persons",
+      "predicate": "induced",
+      "object": "the victim to make financial transactions",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the victim",
+      "predicate": "transferred",
+      "object": "funds to the tune of USD 3700",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_7",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "accused persons",
+      "predicate": "received via",
+      "object": "gift cards",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_8",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the victim",
+      "predicate": "transferred funds",
+      "object": "USD 1000",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_10",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the victim",
+      "predicate": "transferred funds to",
+      "object": "the accused persons",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_10",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the victim",
+      "predicate": "used",
+      "object": "gift cards",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_10",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Jonet Louis",
+      "predicate": "was contacted by",
+      "object": "the accused",
+      "time": "07.07.2023",
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused",
+      "predicate": "transferred the call to",
+      "object": "another accused",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused",
+      "predicate": "operated under pseudonymous identity of",
+      "object": "an employee of Wells Fargo Bank",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "another accused",
+      "predicate": "operated under pseudonymous identity of",
+      "object": "a member of the Financial Crimes Enforcement Network",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "another accused",
+      "predicate": "called",
+      "object": "Jonet Louis",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "another accused",
+      "predicate": "operated under pseudonymous identity of",
+      "object": "an FBI agent Kevin Jones",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "the accused persons",
+      "predicate": "informed",
+      "object": "Jonet Louis",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_11",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "bank account",
+      "predicate": "was opened",
+      "object": "using her credentials",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "bank account",
+      "predicate": "was involved in",
+      "object": "money laundering offences",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "victim",
+      "predicate": "was instructed to",
+      "object": "follow the FBI's instructions",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "victim",
+      "predicate": "was instructed to",
+      "object": "clear her name",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "victim",
+      "predicate": "was instructed to",
+      "object": "secure her money",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "victim",
+      "predicate": "transferred",
+      "object": "USD 7300 to the accused",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "victim",
+      "predicate": "transferred funds in",
+      "object": "crypto currency",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "accused",
+      "predicate": "provided",
+      "object": "crypto wallet 3DJNeRyokFxJpShJ7dGWLiwLDEAKte2F 31",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_12",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "transferred",
+      "object": "cryptocurrency",
+      "time": "07.07.2023",
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_13",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "converted",
+      "object": "cryptocurrency into Indian rupees",
+      "time": "07.07.2023",
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_13",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Pfokrehrii Peter",
+      "predicate": "obtained",
+      "object": "proceeds in his bank account",
+      "time": "07.07.2023",
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_13",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "accused Pfokrehrii Peter",
+      "predicate": "allotted victims",
+      "object": "victims",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_16",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "accused Pfokrehrii Peter",
+      "predicate": "used mobile number",
+      "object": "8447667145",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_16",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "accused Pfokrehrii Peter",
+      "predicate": "used mobile number",
+      "object": "7217828832",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_16",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "case",
+      "predicate": "registered",
+      "object": "",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_20",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "investigation",
+      "predicate": "taken up",
+      "object": "",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_20",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    },
+    {
+      "subject": "Shri Sandeep",
+      "predicate": "directed to investigate",
+      "object": "case",
+      "time": null,
+      "location": null,
+      "source_document": "1129867331RC2312026S0007-1.pdf",
+      "confidence": 1.0,
+      "chunk_id": "1129867331RC2312026S0007-1.pdf_chunk_20",
+      "doc_id": "1129867331RC2312026S0007-1.pdf"
+    }
+  ],
+  "timeline": [
+    {
+      "raw_time": "07.07.2023",
+      "parsed_time": "2023-07-07T00:00:00",
+      "description": "Jonet Louis was contacted by the accused (at 07.07.2023)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        29
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "07.07.2023",
+      "parsed_time": "2023-07-07T00:00:00",
+      "description": "Pfokrehrii Peter transferred cryptocurrency (at 07.07.2023)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        44
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "07.07.2023",
+      "parsed_time": "2023-07-07T00:00:00",
+      "description": "Pfokrehrii Peter converted cryptocurrency into Indian rupees (at 07.07.2023)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        45
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "07.07.2023",
+      "parsed_time": "2023-07-07T00:00:00",
+      "description": "Pfokrehrii Peter obtained proceeds in his bank account (at 07.07.2023)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        46
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "since 2023",
+      "parsed_time": "2023-07-08T00:00:00",
+      "description": "Pfokrehrii Peter operating network of transnational cyber enabled financial crime (at since 2023, in New Delhi)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        9
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "11.05.2023",
+      "parsed_time": "2023-11-05T00:00:00",
+      "description": "Madeline Taylor was contacted by the accused (at 11.05.2023)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        18
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "29.01.2026",
+      "parsed_time": "2026-01-29T00:00:00",
+      "description": "FIR registered under Sec.173 CrPC (at 29.01.2026, in New Delhi)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        0
+      ],
+      "is_sortable": true
+    },
+    {
+      "raw_time": "29-01-2026",
+      "parsed_time": "2026-01-29T00:00:00",
+      "description": "Information reported on Date 29-01-2026 (at 29-01-2026, in New Delhi)",
+      "source_documents": [
+        "1129867331RC2312026S0007-1.pdf"
+      ],
+      "predicate_indices": [
+        6
+      ],
+      "is_sortable": true
+    }
+  ],
+  "contradictions": [],
+  "legal_analysis": {
+    "case_summary": "Pfokrehrii Peter, a resident of New Delhi, is accused of operating a transnational cyber-enabled financial crime network, targeting US nationals and inducing them to make financial transactions through gift cards and cryptocurrency. The accused allegedly used pseudonymous identities, including those of Wells Fargo Bank employees and FBI agents, to deceive the victims and transfer funds to their accounts. The case was registered under Sec.173 CrPC and invokes IPC Sections 120-B, 420, and IT Act 2000 Sections 66-D.",
+    "legal_query": "What statutes apply to a person accused of operating a transnational cyber-enabled financial crime network, targeting foreign nationals through pseudonymous identities, and inducing them to make financial transactions through gift cards and cryptocurrency, under the Indian Penal Code and the Information Technology Act 2000?",
+    "applicable_provisions": [
+      {
+        "act": "THE BHARATIYA NYAYA SANHITA, 2023",
+        "section": "111",
+        "title": "OF OFFENCES AFFECTING THE HUMAN BODY",
+        "reasoning": "The accused is operating a transnational cyber-enabled financial crime network, which falls under the category of economic offence and cyber-crimes, as defined in section 111 of the Bharatiya Nyaya Sanhita, 2023.",
+        "supporting_source_chunk_ids": [
+          "THE BHARATIYA NYAYA SANHITA, 2023.pdf_ch_VI_sec_111_chunk_211",
+          "THE BHARATIYA NYAYA SANHITA, 2023.pdf_ch_VI_sec_111_chunk_214",
+          "THE BHARATIYA NYAYA SANHITA, 2023.pdf_ch_VI_sec_111_chunk_209"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "contested_facts_considered": [],
+    "caveats": [
+      "This is an automated decision-support summary, not legal advice."
+    ]
+  }
+}
