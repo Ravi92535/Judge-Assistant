@@ -8,13 +8,7 @@ from ..enums import LLMProvider
 
 class LLMFactory:
     """
-    Resolves a LangChain BaseChatModel for the configured provider.
-
-    Returning a plain BaseChatModel (rather than a custom wrapper) is the
-    whole point of the LangChain migration: every downstream chain is
-    built with LCEL (`prompt | llm.with_structured_output(Schema)`), which
-    works identically regardless of which concrete chat model this
-    factory hands back.
+    Resolves a LangChain BaseChatModel for the configured provider.     
     """
 
     @staticmethod

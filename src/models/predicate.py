@@ -25,6 +25,7 @@ class Predicate(BaseModel):
     # Traceability fields (not requested by the LLM, filled in by the pipeline)
     chunk_id: Optional[str] = None
     doc_id: Optional[str] = None
+    source_text: Optional[str] = None  # verbatim chunk text the predicate was extracted from
 
     @field_validator("confidence", mode="before")
     @classmethod

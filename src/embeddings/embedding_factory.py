@@ -28,6 +28,7 @@ class EmbeddingFactory:
             )
 
         if provider == "openai":
+            # pyrefly: ignore [missing-import]
             from langchain_openai import OpenAIEmbeddings
 
             api_key = os.environ.get("OPENAI_API_KEY")

@@ -75,6 +75,7 @@ class PredicateExtractor:
                         confidence=extracted.confidence,
                         chunk_id=chunk_id,
                         doc_id=filename,
+                        source_text=chunk.page_content,
                     )
                 )
 

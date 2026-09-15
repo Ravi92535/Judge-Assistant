@@ -24,6 +24,7 @@ dependencies = [
     "pdf2image>=1.17.0",
     "pillow>=10.0.0",
     "python-dateutil>=2.9.0",
+    "langchain-openai>=1.2.2",
 ]
 
 # Optional groupings for `uv sync --extra <name>`:
